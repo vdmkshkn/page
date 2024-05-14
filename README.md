@@ -1,1 +1,3 @@
-# page
+# Welcome
+
+$x^2$
